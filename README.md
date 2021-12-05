@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HoumingChen
+- 🌱 I’m currently learning Computer Science / Math at the University of Michigan
+- 📫 You can reach me by sending emails to houmingc@umich.edu
